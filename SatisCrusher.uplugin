@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "SatisCrusher",
+	"Description": "Crush ore for double it !",
+	"Category": "Modding",
+	"CreatedBy": "@Geakharta",
+	"CreatedByURL": "https://github.com/Geakharta/SatisCrusher",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.7.0"
+		}
+	],
+	"SemVersion": "1.0.0"
+}
